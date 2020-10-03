@@ -1,0 +1,26 @@
+
+*{
+    max-width: 100%;
+    width: auto; height: auto;
+    word-wrap: break-word;
+} img{
+    padding-bottom: 5px;
+} iframe {
+    width: 95%;
+} p{
+    max-width: 100%;
+    width:auto;
+    height: auto;
+} body p {  
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;;
+} body {  
+    max-width: 100% !important;
+    font-family:'HelveticaNeue', serif;
+    margin: 0;
+    rtl
+} .list-inline {
+    display: inline;
+    list-style: none;
+} html {
+    -webkit-text-size-adjust: none; /* Never autoresize text */
+}

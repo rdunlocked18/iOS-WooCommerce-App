@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SocialSection</key>
+	<dict>
+		<key>Twitter</key>
+		<array>
+			<string>TWITTER</string>
+			<string>AndroidPolice</string>
+		</array>
+	</dict>
+	<key>FancySection</key>
+	<dict>
+		<key>Youtube</key>
+		<array/>
+		<key>Tumblr</key>
+		<array/>
+	</dict>
+</dict>
+</plist>

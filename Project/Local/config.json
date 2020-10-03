@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Home",
+    "drawable": "home",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Home",
+        "provider": "woocommerce",
+        "arguments": [
+          ""
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "Cart",
+    "drawable": "cart",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Cart",
+        "provider": "custom",
+        "arguments": [
+          "Cart"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "Navigation",
+    "drawable": "ic_baseline_navigation_24",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Orders",
+        "provider": "wordpress",
+        "arguments": [
+          "com.sherdle.universal.NavigationLoc",
+          "activity"
+        ]
+      },
+      {
+        "title": "Orders",
+        "provider": "wordpress",
+        "arguments": [
+          "com.sherdle.universal.NavigationLoc",
+          "fragment"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {"title":"Call","drawable":"","submenu":"","tabs":[{"title":"Call","image":"","provider":"custom","arguments":["tel:123456"]}],"iap":false},
+  {
+    "title": "Opening Hours",
+    "drawable": "ic_baseline_access_time_24",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "custom",
+        "provider": "wordpress",
+        "arguments": [
+          "com.sherdle.universal.OpeningHours",
+          "fragment"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "Share",
+    "drawable": "ic_baseline_share_24",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Orders",
+        "provider": "woocommerce",
+        "arguments": [
+          "orders"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "Feedback",
+    "drawable": "ic_baseline_feedback_24",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Orders",
+        "provider": "woocommerce",
+        "arguments": [
+          "orders"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "Impressum",
+    "drawable": "ic_baseline_info_24",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Orders",
+        "provider": "woocommerce",
+        "arguments": [
+          "orders"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "Allergen",
+    "drawable": "ic_baseline_fastfood_24",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Orders",
+        "provider": "woocommerce",
+        "arguments": [
+          "orders"
+        ]
+      }
+    ],
+    "iap": false
+  }
+]
+
